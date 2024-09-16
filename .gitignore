@@ -1,0 +1,12 @@
+
+# Python bytecode
+*.py[cod]
+__pycache__/
+
+# SQLite database
+db.sqlite3
+
+# Django migrations
+*/migrations/*.pyc
+*/migrations/__pycache__/
+
